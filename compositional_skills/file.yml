@@ -4,4 +4,6 @@ seed_examples:
     answer: b
   - question: c
     answer: d
+  - question: e
+    answer: f
 task_description: neco
