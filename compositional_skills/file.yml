@@ -1,0 +1,6 @@
+seed_examples:
+  - question: a
+    answer: b
+  - question: c
+    answer: d
+task_description: neco
