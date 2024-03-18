@@ -1,7 +1,12 @@
-created_by: xjacka
+created_by: ""
 seed_examples:
-  - question: a
-    answer: b
-  - question: c
-    answer: d
-task_description: neco
+  - question: skakal
+    answer: pes
+    source: Self-Created
+  - question: pres
+    answer: oves
+    source: Self-Created
+  - question: pres
+    answer: zelenou
+    source: Self-Created
+task_description: Hej hou
