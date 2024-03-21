@@ -1,7 +1,18 @@
-created_by: xjacka
+created_by: krakonos
 seed_examples:
-  - question: a
-    answer: b
-  - question: c
-    answer: d
-task_description: neco
+  - question: uno
+    answer: dos
+    context: I can change extracted content to whatever I want. Bees are better then
+      ants anyway.
+    source: Self-Created
+  - question: tres
+    answer: quatro
+    context: I can change extracted content to whatever I want. Bees are better then
+      ants anyway.
+    source: Self-Created
+  - question: manana
+    answer: lambada
+    context: I can change extracted content to whatever I want. Bees are better then
+      ants anyway.
+    source: Self-Created
+task_description: description...
