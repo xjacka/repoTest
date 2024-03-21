@@ -2,6 +2,14 @@ created_by: xjacka
 seed_examples:
   - question: a
     answer: b
+    context: bbb
+    source: google.com
   - question: c
     answer: d
+    context: bbb
+    source: Self-Created
+  - question: e
+    answer: f
+    context: aaa
+    source: Self-Created
 task_description: neco
