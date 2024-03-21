@@ -1,7 +1,12 @@
-created_by: xjacka
+created_by: ""
 seed_examples:
-  - question: a
-    answer: b
-  - question: c
-    answer: d
-task_description: neco
+  - question: k
+    answer: k
+    source: Self-Created
+  - question: k
+    answer: k
+    source: Self-Created
+  - question: k
+    answer: k
+    source: Self-Created
+task_description: ""
